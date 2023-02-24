@@ -5,9 +5,9 @@
 
 As a brand, having a customer data platform (CDP) and marketing automation in place can provide an immense boost for your business. With [SABLE](https://sable.asia), you can unlock the power of CDP and marketing automation to unlock new opportunities, increase customer satisfaction and maximize ROI.
 
-## What is a CDP? 
+## What is a [CDP](https://sable.asia)? 
 
-A customer data platform (CDP) is a centralized platform that stores, manages and segments customer data from multiple sources. It helps brands to gain better insights into their customers’ behaviors and preferences, and provides them with a unified view of the customer. This allows marketers to make informed decisions and develop personalized strategies.
+A [Customer Data Platform ](https://sable.asia) (CDP) is a centralized platform that stores, manages and segments customer data from multiple sources. It helps brands to gain better insights into their customers’ behaviors and preferences, and provides them with a unified view of the customer. This allows marketers to make informed decisions and develop personalized strategies.
 
 ## Benefits of CDP
 
